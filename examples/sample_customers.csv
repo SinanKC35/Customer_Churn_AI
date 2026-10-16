@@ -1,0 +1,25 @@
+tenure,monthly_charges,senior_citizen,contract,internet_service,payment_method,tech_support,online_security,paperless_billing
+24,79.5,0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+60,45.0,0,Two year,No,Credit card (automatic),No internet service,No internet service,No
+2,94.25,1,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+4,87.7,0,Month-to-month,Fiber optic,Mailed check,No,No,Yes
+6,69.9,0,Month-to-month,DSL,Electronic check,No,No,Yes
+12,79.95,1,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes
+1,70.8,0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+8,98.5,1,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+15,87.2,0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,Yes
+22,99.25,0,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes
+3,35.5,0,Month-to-month,DSL,Mailed check,No,No,No
+19,55.25,1,Month-to-month,DSL,Electronic check,No,Yes,Yes
+26,68.0,0,One year,DSL,Bank transfer (automatic),Yes,Yes,No
+30,81.4,0,One year,Fiber optic,Credit card (automatic),Yes,Yes,Yes
+35,56.25,1,One year,DSL,Bank transfer (automatic),Yes,Yes,No
+42,76.8,0,One year,Fiber optic,Credit card (automatic),Yes,No,Yes
+48,70.5,0,One year,DSL,Credit card (automatic),Yes,Yes,Yes
+53,86.7,1,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,No
+58,62.45,0,Two year,DSL,Credit card (automatic),Yes,Yes,No
+72,105.6,0,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes
+65,20.4,1,Two year,No,Mailed check,No internet service,No internet service,No
+50,24.9,0,Two year,No,Bank transfer (automatic),No internet service,No internet service,No
+44,39.1,0,Two year,DSL,Credit card (automatic),Yes,Yes,No
+68,91.6,1,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes

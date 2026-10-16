@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+data/
+models/
+.ipynb_checkpoints/
+.DS_Store
+# React/Vite dashboard
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.log
+
+# local environment and secrets
+.env.*
+!.env.example
+*.sqlite3
+*.db
+coverage/
+htmlcov/
+.npm/

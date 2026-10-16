@@ -1,0 +1,21 @@
+name: React Dashboard
+on:
+  push:
+  pull_request:
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # Once you run npm install locally, commit frontend/package-lock.json
+      # and replace npm install with npm ci for locked dependency resolution.
+      - run: npm install --no-audit --no-fund
+      - run: npm test
+      - run: npm run build
